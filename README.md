@@ -1,3 +1,3 @@
-## Exploring loss function topology with cyclical learning rates 
+## Cyclical Learning Rates for Training Neural Networks 
 
-https://arxiv.org/abs/1702.04283
+https://arxiv.org/abs/1506.01186
